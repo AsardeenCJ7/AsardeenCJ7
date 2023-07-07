@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asardeen Mohamed</h1>
-<h3 align="center">Bachelor (Hons) in Software Engineering | Higher National Diploma in Information Technology</h3>
+<h3 align="center">Software Engineering Student | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asardeencj7&label=Profile%20views&color=0e75b6&style=flat" alt="asardeencj7" /> </p>
 
