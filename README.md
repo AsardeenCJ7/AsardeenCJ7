@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asardeencj7" alt="asardeencj7" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developer**
+- 🔭 I’m currently working on **Software Engineering Trainee**
 
 - 🌱 I’m currently learning **Node.js | Mango DB | React.js | Express.js | Python | Android Application Development**
 
