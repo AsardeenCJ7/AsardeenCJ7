@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/asardeencj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asardeencj7" height="30" width="40" /></a>
 <a href="https://fb.com/asardeen mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asardeen mohamed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@code4evercj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code4ever" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@code4evercj7](http://www.youtube.com/@infinitivescript)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code4ever" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asardeenbse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asardeenbse" height="30" width="40" /></a>
 </p>
 
