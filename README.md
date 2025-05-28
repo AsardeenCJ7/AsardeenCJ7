@@ -11,8 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BSc (Hons) in Software Engineering**
-- 🧑‍🏫 **IT Instructor at DP Education IT Campus**
+- 🎓 **BSc (Hons) in Software Engineering at The Open University of Sri Lanka**
+- 🎓 **Bachelor (Hon) in Information Technology at University of Moratuwa**
+- 🎓 **Higher National Diploma in Information Technology at Sri Lankan Advanced Technological Institute**
+- 🎓 **Full Stack Developer Trainee at University of Moratuwa**
+- 🧑‍🏫 **IT Instructor | Regional Manager at DP Education IT Campus**
 - 💼 **Ex-Web Developer Intern at UPBRIGHT Pvt Ltd**
 - 🛠️ Passionate about building modern web & mobile applications
 - 🌐 Contributor to **EduPortal LMS**, **Payroll & Leave Management Systems**, and internal tools
