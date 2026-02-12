@@ -55,25 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asardeencj7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asardeencj7&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asardeencj7&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📚 Featured Projects
-
-- 🧾 [Payroll System](https://github.com/asardeencj7/payroll-system) - Manage employee salaries and deductions
-- 📚 [EduPortal LMS](https://github.com/asardeencj7/eduportal-lms) - Online learning platform with role-based access
-- 📱 [Mobile Shop App](https://github.com/asardeencj7/mobile-shop) - Android app for browsing and purchasing tech products
-- 🏢 [Leave Management System](https://github.com/asardeencj7/leave-management) - For internal HR use at Grifindo Lanka Toys
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/asardeencj7)  
