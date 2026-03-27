@@ -60,7 +60,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/asardeencj7)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/@infinitivescript)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/asardeenbse)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://facebook.com/asardeen mohamed)
 
 ---
 
